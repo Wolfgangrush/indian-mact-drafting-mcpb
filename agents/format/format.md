@@ -27,8 +27,8 @@ Single file: `<case-folder>/format-shell.md`
 ## Behaviour
 
 1. **Resolve forum** — pull Tribunal / Court / Authority name verbatim from `case-config.md`. Use the correct nomenclature:
-   - MACT (Section 166 / 164 / 161 / 147 / interim) — *"BEFORE THE MOTOR ACCIDENT CLAIMS TRIBUNAL, [District]"* (e.g. *"MOTOR ACCIDENT CLAIMS TRIBUNAL, NAGPUR"*)
-   - High Court (Section 173 appeal) — *"IN THE HIGH COURT OF JUDICATURE AT [Seat], [Bench]"* (e.g. *"HIGH COURT OF JUDICATURE AT BOMBAY, NAGPUR BENCH"*)
+   - MACT (Section 166 / 164 / 161 / 147 / interim) — *"BEFORE THE MOTOR ACCIDENT CLAIMS TRIBUNAL, [District]"* (e.g. *"MOTOR ACCIDENT CLAIMS TRIBUNAL, [PLACE]"*)
+   - High Court (Section 173 appeal) — *"IN THE HIGH COURT OF JUDICATURE AT [Seat], [Bench]"* (e.g. *"HIGH COURT OF JUDICATURE AT BOMBAY, [PLACE] BENCH"*)
    - Magistrate (BNSS criminal defence — rash / negligent driving) — *"BEFORE THE COURT OF THE [Judicial Magistrate First Class / Chief Judicial Magistrate / Sessions Judge], [Place]"*
    - Commissioner (EC Act 1923) — *"BEFORE THE COMMISSIONER UNDER THE EMPLOYEES' COMPENSATION ACT 1923, [Place]"*
    - Collector (Section 174) — *"BEFORE THE COLLECTOR OF THE DISTRICT, [District]"*

@@ -16,7 +16,7 @@ case_type_line: FIRST APPEAL UNDER SECTION 173 OF THE MOTOR VEHICLES ACT 1988 AG
 case_short_code: MACT_173
 case_number_prefix: First Appeal   # State-specific — "First Appeal" / "F.A." / "F.A.O." (First Appeal from Order) per High Court Registry convention
 pleading_type: Memorandum of First Appeal
-typical_forum: High Court of [State] — territorial bench corresponding to the MACT whose award is appealed (e.g. Bombay HC Nagpur Bench for an MACT Nagpur / Wardha / Bhandara / Gondia award)
+typical_forum: High Court of [State] — territorial bench corresponding to the MACT whose award is appealed (e.g. Bombay HC (your bench) for an MACT [bench city] / Wardha / Bhandara / Gondia award)
 typical_parties: Appellant (claimant seeking enhancement OR insurer / owner seeking reduction / reversal) + Respondent(s) (the original opposite parties before the MACT)
 statutory_opening: "This First Appeal is filed under Section 173 of the Motor Vehicles Act 1988 against the Award dated [Award-Date-Placeholder] passed by the [Motor Accident Claims Tribunal] in M.A.C.P. No. [MACT-Case-No.-Placeholder] of [Year-Placeholder], whereby the Tribunal has [granted compensation of ₹___ to the Claimants / dismissed the petition / apportioned contributory negligence at ___% against the deceased / injured]."
 negligence_grounds:

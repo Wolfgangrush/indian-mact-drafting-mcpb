@@ -2,7 +2,7 @@
 
 This is a **template**. Copy this file into your case folder, rename to `state-config.md`, and fill in the values for your specific State / Union Territory. The plugin's Format and Drafter agents read this file at run-time alongside the case-type SKILL templates to render motor-accident-claim pleadings in your State's idiom.
 
-**Do not edit this template in the plugin folder.** Always work on a copy inside your case folder. Validated State exemplars are in `state-config/exemplars/` — copy the right one for your State, then customise per your specific MACT district (Nagpur MACT vs Mumbai MACT vs Pune MACT, etc.).
+**Do not edit this template in the plugin folder.** Always work on a copy inside your case folder. Validated State exemplars are in `state-config/exemplars/` — copy the right one for your State, then customise per your specific MACT district ([bench city] MACT vs Mumbai MACT vs Pune MACT, etc.).
 
 The State configuration matters acutely for MACT pleadings because:
 
@@ -128,7 +128,7 @@ notes: |
 
 1. Pick the right State exemplar from `state-config/exemplars/` (8 major State exemplars provided; 20 stubs await community contribution).
 2. Copy to your case folder: `cp state-config/exemplars/<your-state>.md <case-folder>/state-config.md`
-3. Customise the values per your specific MACT (Nagpur vs Mumbai vs Pune vs other district MACTs).
+3. Customise the values per your specific MACT ([bench city] vs Mumbai vs Pune vs other district MACTs).
 4. The plugin's Format and Drafter agents read this file alongside the case-type SKILL to render in your State's idiom.
 
 ## Contributing state-config exemplars

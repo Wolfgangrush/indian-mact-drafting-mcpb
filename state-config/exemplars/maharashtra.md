@@ -7,8 +7,8 @@ state: "Maharashtra"
 local_language_of_pleadings: "English (Marathi permitted in select MACTs per Section 137 CPC State amendment and Maharashtra Civil Manual practice)"
 bar_council: "Bar Council of Maharashtra and Goa"
 
-mact_case_number_prefix: "M.A.C.P."           # Standard across Maharashtra MACTs (Mumbai · Pune · Nagpur · Aurangabad · Nashik · Kolhapur · Wardha · Bhandara · etc.)
-mact_appeal_prefix_high_court: "First Appeal"  # Section 173 appeals are filed as "First Appeal" before the Bombay HC and its Benches (Nagpur · Aurangabad · Goa)
+mact_case_number_prefix: "M.A.C.P."           # Standard across Maharashtra MACTs (Mumbai · Pune · [bench city] · Aurangabad · Nashik · Kolhapur · Wardha · Bhandara · etc.)
+mact_appeal_prefix_high_court: "First Appeal"  # Section 173 appeals are filed as "First Appeal" before the Bombay HC and its Benches ([bench city] · Aurangabad · Goa)
 
 state_court_fees_act: |
   Bombay Court-Fees Act 1959 (as amended) — Maharashtra MACT petitions are subject to a nominal slab; verify against the latest notification under the Act
@@ -62,7 +62,7 @@ line_spacing: 1.5
 notes: |
   Maharashtra Civil Manual permits English-language pleadings as the default at MACT level. Marathi pleadings accepted under Section 137 CPC State amendment in MACTs where Marathi is the principal language of business (typically interior districts — Wardha, Yavatmal, Chandrapur, Gadchiroli). Mumbai MACT and Pune MACT typically operate in English only.
 
-  Bombay HC Nagpur Bench Section 173 First Appeals: filed in the High Court Registry at Nagpur; appeal court fee per Bombay Court-Fees Act Schedule I; Section 173(2) deposit by insurer / owner = ₹25,000 or 50% of award, whichever is less; deposit-challan annexed to appeal memo.
+  Bombay HC (your bench) Section 173 First Appeals: filed in the High Court Registry at [bench city]; appeal court fee per Bombay Court-Fees Act Schedule I; Section 173(2) deposit by insurer / owner = ₹25,000 or 50% of award, whichever is less; deposit-challan annexed to appeal memo.
 
   Pre-litigation Lok Adalat conciliation under MV Act and Legal Services Authorities Act 1987 is increasingly used by Maharashtra insurers (national and state PSU insurers) for fast-track settlement; the advocate may consider conciliation pre-MACT-filing for liquidated and uncontested cases.
 ```
