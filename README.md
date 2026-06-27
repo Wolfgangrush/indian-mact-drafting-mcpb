@@ -1,3 +1,19 @@
+<div align="center">
+
+<img src="docs/banner.png" width="820"/>
+
+**A strict six-agent drafting pipeline for Indian Motor Accident Claims Tribunals.**
+
+Visit the live site: [wolfgangrush.github.io](https://wolfgangrush.github.io)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Connector: MCPB](https://img.shields.io/badge/connector-MCPB-blue)
+![Pipeline: 6 agents](https://img.shields.io/badge/pipeline-6%20agents-orange)
+![Jurisdiction: India · MACT](https://img.shields.io/badge/jurisdiction-India%20%C2%B7%20MACT-FF9933)
+
+</div>
+
+
 # wolfgang_rush — Motor Accident Claims Tribunal Drafting
 
 **MCPB Desktop Extension** for drafting pleadings before Motor Accident Claims Tribunals across India under the Motor Vehicles Act 1988 (as amended by MV Amendment Act 2019).
